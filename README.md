@@ -1,7 +1,7 @@
 # NumbersToWords
 Library to convert numbers in English and Spanish in the equivalent in words. 
 +
-#h3 Easy steps:
+# Easy steps:
 1. Import the libray
 2. Call the method NumbersToWords(language, number)
 3. Add the parameters 
