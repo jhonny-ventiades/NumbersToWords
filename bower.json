@@ -1,0 +1,11 @@
+{
+  "name": "NumbersToWords",
+  "version": "0.1",
+  "homepage": "https://github.com/jhonny-ventiades/NumbersToWords",
+  "authors": [
+    "Jhonny Ventiades <jhonny.ventiadesg@gmail.com>"
+  ],
+  "description": "Conver numbers in the equivalent of words",
+  "main": "NumberToWords.js",
+  "license": "MIT"
+}
